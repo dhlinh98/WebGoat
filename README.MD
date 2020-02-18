@@ -1,3 +1,4 @@
+[![DepShield Badge](https://depshield.sonatype.org/badges/dhlinh98/WebGoat/depshield.svg)](https://depshield.github.io)
 # WebGoat 8: A deliberately insecure Web Application
 
 [![Build Status](https://travis-ci.org/WebGoat/WebGoat.svg?branch=develop)](https://travis-ci.org/WebGoat/WebGoat)
